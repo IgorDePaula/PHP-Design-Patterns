@@ -1,0 +1,16 @@
+window_sizes 1366 705 320 960 512 82
+diagrams
+  active  classdiagram_ref 128002 // Strategy
+    1040 549 100 4 0 0
+end
+show_stereotypes
+selected usecaseview_ref 128002 // Class View
+open
+  class_ref 128002 // OperatorInterface
+  class_ref 128130 // Calculator
+  class_ref 128258 // AdderOperator
+  class_ref 128386 // SubtractorOperator
+  class_ref 128514 // MultiplierOperator
+  class_ref 128642 // DivisorOperator
+end
+end
